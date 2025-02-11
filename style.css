@@ -1,0 +1,36 @@
+*{
+    background-color: cyan;    
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-family: "Ariel", serif;
+}
+
+
+
+p a{
+    display: block;
+    margin: auto;
+    background-color: blue;
+    width: 10em;
+    font-size: 30px;
+    text-decoration: none; 
+    color: red;
+    text-align: center;
+    
+}
+
+
+.home{
+    text-decoration: none;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
